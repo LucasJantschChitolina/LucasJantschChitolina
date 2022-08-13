@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Ilha de Obras](https://www.instagram.com/ilhadeobras/) as Junior Tech Leader
-- 🌱 I’m currently learning Node.js, React, Postgres, MySQL
+- 🔭 I’m currently working on [M8 Sistemas](https://erpm8.cloud/) as Junior Web Developer
+- 🌱 I’m currently learning React, Typescript and C#
 - 🤔 I’m looking for help with Docker and Linux
 - 💬 Ask me about **Leadership, Development**
 - 📫 How to reach me: send an email to lucas.chitolina01@gmail.com
