@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [IXC Soft](https://www.ixcsoft.com.br/) as Node.js Developer developing [Opa! Suite](https://opasuite.com.br/)
+- 🔭 I’m currently working
 - 🌱 I’m currently learning React, Next JS, Typescript and Tailwind CSS
 - 🤔 I’m looking for help with Docker and Linux
 - 💬 Ask me about **Leadership, Development**
